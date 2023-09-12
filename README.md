@@ -1,6 +1,6 @@
 # Rails web app for Vouch
 
-Heroku
+Heroku + Rails
 
 Things you may want to cover:
 
